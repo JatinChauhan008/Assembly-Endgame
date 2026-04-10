@@ -44,6 +44,11 @@ Assembly Endgame is a React-based application built with Vite, designed to provi
    npm start
    ```
 
+## Live Demo
+
+Check out the live version of the project here: [Assembly Endgame](https://assemblyendgame-jatin.netlify.app/)
+
+
 ## Learn More
 
 - [Vite Documentation](https://vitejs.dev/)
