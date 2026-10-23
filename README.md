@@ -29,7 +29,7 @@ Assembly Endgame is a React-based application built with Vite, designed to provi
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/JatinChauhan008/Assembly-Endgame
    ```
 2. Navigate to the project directory:
    ```bash
